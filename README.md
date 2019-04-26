@@ -1,1 +1,37 @@
 # go-study-plan
+	
+- basic lan spec
+- oo
+	- struct
+	- interface
+- goroutine && chan
+- net
+	- tcp
+	- udp
+	- http
+- db
+	- mysql
+		- sqlx : go mysql driver
+		- gorm
+		- sharding
+	- redis
+- web framework
+	- beego
+	- echo
+	- gin
+- rpc
+	- grpc
+- micro service
+	- go-kit
+	- micro
+- mq
+	- kafka
+	- rocketmq
+	- activemq
+- game server
+	- leaf
+	- kmud
+- editor
+	- tmux
+	- vim
+	- nerdtree
