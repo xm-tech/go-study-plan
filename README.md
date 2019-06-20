@@ -1,6 +1,6 @@
 # go-study-plan
     - 学习的侧重点应取决于内容是否有用
-
+    - 以实用性作为学习内容的选择依据
 - basic lan spec
 - oo
 	- struct
