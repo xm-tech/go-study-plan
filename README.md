@@ -1,5 +1,6 @@
 # go-study-plan
-	
+    - 学习的侧重点应取决于内容是否有用
+
 - basic lan spec
 - oo
 	- struct
